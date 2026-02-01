@@ -239,5 +239,5 @@ It does **not provide medical diagnoses** and should not replace professional me
 **HridyaCare**  
 _Heart health, understood — not just measured._
 
-© 2025 HridyaCare. All rights reserved.  
+© 2026 HridyaCare. All rights reserved.  
 Developed by **Om J. Bhinsara and Team**.
