@@ -19,7 +19,7 @@ It is built with a strong focus on **individuals, families, elderly members, and
 
 ## ⚠️ Device Recommendation
 
-Heart rate monitoring in HridyaCare relies on the **smartphone camera and flash (rPPG technique)**.  
+Heart rate monitoring in HridyaCare relies on the **smartphone camera and flash (PPG technique)**.  
 Since most laptops and desktops do **not support continuous camera flash**, this feature is **fully supported only on mobile devices**.
 
 For the **best accuracy and reliability**, users are **strongly advised to access HridyaCare on a smartphone**.
